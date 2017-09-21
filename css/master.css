@@ -1,0 +1,26 @@
+.center{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.amarelo {
+    width: 15px;
+    background: yellow;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+}
+.verde {
+    width: 15px;
+    background: green;
+    padding: 10px;
+    margin: 10px;
+}
+.vermelho{
+  width: 15px;
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
